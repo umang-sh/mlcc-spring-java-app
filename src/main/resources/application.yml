@@ -1,8 +1,8 @@
 spring:
   http:
     multipart:
-      max-file-size: 300KB
-      max-request-size: 300KB
+      max-file-size: 400KB
+      max-request-size: 400KB
 application:
   graph: ./graph/YOLO/yolo-voc.pb
   label: ./graph/YOLO/yolo-voc-labels.txt

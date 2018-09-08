@@ -15,7 +15,6 @@ import java.util.PriorityQueue;
 
 /**
  * YOLOClassifier class implemented in Java by using the TensorFlow Java API
- * I also used this class in my android sample application here: https://github.com/szaza/android-yolo-v2
  */
 public class YOLOClassifier {
     private final static float OVERLAP_THRESHOLD = 0.5f;
